@@ -1,3 +1,4 @@
+
 nav ul {
     background-color: red;
     color: red;
@@ -61,4 +62,10 @@ label {
 }
 input {
     border: 3px dashed red;
+}
+aside {
+    background-color: rgb(156, 156, 156);
+    color: rgb(0, 255, 0);
+    padding: 10px;
+    margin: 10px;
 }
