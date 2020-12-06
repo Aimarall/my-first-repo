@@ -1,4 +1,8 @@
-
+body {
+    background-color: rgb(233, 255, 233);
+    margin: 5px;
+    padding: 8px;
+}
 nav ul {
     background-color: red;
     color: red;
@@ -69,3 +73,4 @@ aside {
     padding: 10px;
     margin: 10px;
 }
+
