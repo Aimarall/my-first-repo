@@ -40,3 +40,11 @@ img {
 footer {
     text-align: center;
 }
+button {
+    width: 70px;
+    padding: 10px;
+    background-color: rebeccapurple;
+    color: wheat;
+    border: 10px dashed rgb(255, 126, 147);
+   
+}
