@@ -1,3 +1,16 @@
+nav ul {
+    background-color: red;
+    color: red;
+}
+ul {
+    display: flex;
+}
+li {
+    border: 1px dashed;
+}
+a {
+    padding: 5px;
+}
 div {
     width: 300px;
     height: 300px;
