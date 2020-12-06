@@ -48,3 +48,17 @@ button {
     border: 10px dashed rgb(255, 126, 147);
    
 }
+fieldset {
+    color: rgb(251, 255, 0);
+    border: 8px dashed red;
+    padding: 19px;
+}
+legend {
+    border: 6px dashed red;
+}
+label {
+    border: 5px dashed red;
+}
+input {
+    border: 3px dashed red;
+}
